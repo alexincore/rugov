@@ -1,12 +1,12 @@
 # List of public russian government and military services
 
-https://www.gosuslugi.ru
-https://epp.genproc.gov.ru
-https://ach.gov.ru
-https://www.scrf.gov.ru
-https://mil.ru
-https://minpromtorg.gov.ru/
-https://favt.gov.ru/
+https://www.gosuslugi.ru  
+https://epp.genproc.gov.ru  
+https://ach.gov.ru  
+https://www.scrf.gov.ru  
+https://mil.ru  
+https://minpromtorg.gov.ru/  
+https://favt.gov.ru/  
 https://rkn.gov.ru/
 
 # DDoS commands
