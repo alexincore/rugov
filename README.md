@@ -28,5 +28,5 @@ https://github.com/gkbrk/slowloris
 
 Example command:  
 ```
-docker run --rm -it maxkrivich/pyslowloris [-h] [-u URL] [-c CONNECTION_COUNT] [-s SILENT]
+docker run --rm -it aminvakil/slowloris [-h] [-u URL] [-c CONNECTION_COUNT] [-s SILENT]
 ```
