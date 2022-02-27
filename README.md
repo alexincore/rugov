@@ -7,8 +7,8 @@ https://www.scrf.gov.ru
 https://mil.ru  
 https://minpromtorg.gov.ru/  
 https://favt.gov.ru/  
-https://rkn.gov.ru/
-https://rg.ru/org/pravitelstvo/minoboroni/gru/
+https://rkn.gov.ru/  
+https://rg.ru/org/pravitelstvo/minoboroni/gru/  
 http://www.fso.gov.ru/
 
 # Full list of targets
