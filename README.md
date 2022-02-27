@@ -9,7 +9,8 @@ https://minpromtorg.gov.ru/
 https://favt.gov.ru/  
 https://rkn.gov.ru/  
 https://rg.ru/org/pravitelstvo/minoboroni/gru/  
-http://www.fso.gov.ru/
+http://www.fso.gov.ru/  
+https://api.developer.sber.ru/product/SberbankID
 
 # Full list of targets
 
