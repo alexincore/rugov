@@ -1,4 +1,4 @@
-# List of public russian government and military services
+# List of (some) public russian government and military services
 
 https://www.gosuslugi.ru  
 https://epp.genproc.gov.ru  
@@ -28,5 +28,5 @@ https://github.com/gkbrk/slowloris
 
 Example command:  
 ```
-docker run --rm -it aminvakil/slowloris [-h] [-u URL] [-c CONNECTION_COUNT] [-s SILENT]
+docker run --rm -it aminvakil/slowloris [-h] [-u URL] [-s numberOfSockets]
 ```
