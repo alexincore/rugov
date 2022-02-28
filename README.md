@@ -14,9 +14,9 @@ https://api.developer.sber.ru/product/SberbankID
 
 # Propaganda
 
-tvzvezda.ru
-echo.msk.ru
-rg.ru
+tvzvezda.ru  
+echo.msk.ru  
+rg.ru  
 kp.ru
 
 # Full list of targets
