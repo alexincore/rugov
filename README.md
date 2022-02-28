@@ -18,6 +18,7 @@ tvzvezda.ru
 echo.msk.ru  
 rg.ru  
 kp.ru
+rusvesna.su
 
 # Full list of targets
 
