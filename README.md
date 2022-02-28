@@ -46,6 +46,12 @@ https://smpbank.ru/
 https://sberbank.ru/
 ```
 
+# Bank API
+
+```
+https://www.acs.gazprombank.ru/auth/pareq
+```
+
 # Full list of targets
 
 https://pastebin.com/JEuV9ftT
