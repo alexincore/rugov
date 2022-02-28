@@ -14,11 +14,37 @@ https://api.developer.sber.ru/product/SberbankID
 
 # Propaganda
 
+```
 tvzvezda.ru  
 echo.msk.ru  
 rg.ru  
-kp.ru
+kp.ru  
 rusvesna.su
+```
+
+# Banks
+
+```
+https://www.open.ru/
+https://nsbank.ru/
+https://www.lanta.ru/
+https://www.akbars.ru/en/
+https://www.bspb.ru/
+https://realistbank.ru/
+https://skbbank.ru/
+https://bbr.ru/
+https://domrfbank.ru/
+https://kk.bank/
+https://www.coalmetbank.ru/
+https://bcs-bank.com/
+https://www.raiffeisen.ru/
+https://energotransbank.com/
+https://www.uralsib.ru/
+https://alfabank.ru/
+https://mosoblbank.ru/
+https://smpbank.ru/
+https://sberbank.ru/
+```
 
 # Full list of targets
 
